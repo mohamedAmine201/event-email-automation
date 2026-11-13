@@ -1,0 +1,15 @@
+{
+  "node": {
+    "00f25cef3bbf08482ed941ec384e3eb49122c0d4e4": {
+      "workers": {
+        "app/_not-found/page": {
+          "moduleId": 53759,
+          "async": false
+        }
+      },
+      "exportedName": "getEmailsDirectoryMetadataAction",
+      "filename": ".react-email/src/actions/get-emails-directory-metadata-action.ts"
+    }
+  },
+  "edge": {}
+}

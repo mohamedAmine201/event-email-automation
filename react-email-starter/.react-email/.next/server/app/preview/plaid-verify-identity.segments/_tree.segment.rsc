@@ -1,0 +1,12 @@
+:HL["/_next/static/chunks/2_qzx628vktet.css","style"]
+:HL["/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/SFMonoBold-s.p.036s5_b2vc0r3.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/_next/static/media/SFMonoHeavy-s.p.205s3s5gu4ywq.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/_next/static/media/SFMonoLight-s.p.3qf-lkbd8i867.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/_next/static/media/SFMonoMedium-s.p.1-od64co72mc0.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/_next/static/media/SFMonoRegular-s.p.2in-85ghbi028.otf","font",{"crossOrigin":"","type":"font/otf"}]
+:HL["/_next/static/media/SFMonoSemibold-s.p.2s4ngrwg2ifr8.otf","font",{"crossOrigin":"","type":"font/otf"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"c","k":"plaid-verify-identity","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"preview","h":96,"c":"$Q2"}]]
+0:{"b":"R5KElbnUSqG-0VcbRnYjS","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

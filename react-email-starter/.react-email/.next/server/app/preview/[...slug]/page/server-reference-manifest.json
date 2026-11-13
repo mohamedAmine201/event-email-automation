@@ -1,0 +1,85 @@
+{
+  "node": {
+    "00f25cef3bbf08482ed941ec384e3eb49122c0d4e4": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "getEmailsDirectoryMetadataAction",
+      "filename": ".react-email/src/actions/get-emails-directory-metadata-action.ts"
+    },
+    "60ec8e61be41377d70d11b38d4ab30d414cd8cb67b": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "checkCompatibility",
+      "filename": ".react-email/src/actions/email-validation/check-compatibility.ts"
+    },
+    "7f168e7b40576e8c2fa4ed03529cda66b6fef1cbdb": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "getEmailPathFromSlug",
+      "filename": ".react-email/src/actions/get-email-path-from-slug.ts"
+    },
+    "40bbf02dc8eb67b9c5fbbf82dd2199fb59ba900e6b": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "invalidateEmailRenderingCache",
+      "filename": ".react-email/src/actions/render-email-by-path.tsx"
+    },
+    "7073c7ab2cb946fa1a4d7dc7859f4ed4286a427657": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "renderEmailByPath",
+      "filename": ".react-email/src/actions/render-email-by-path.tsx"
+    },
+    "60b318367d4158987db220f5aabd80e19c48bcddaa": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "checkImages",
+      "filename": ".react-email/src/actions/email-validation/check-images.ts"
+    },
+    "408cb309fb57d67ae6b170064f11b9c81097bfcf54": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "checkLinks",
+      "filename": ".react-email/src/actions/email-validation/check-links.ts"
+    },
+    "7f4f3a85c1a6cc2b5a3e9da0ca4a90756d8c231bec": {
+      "workers": {
+        "app/preview/[...slug]/page": {
+          "moduleId": 15192,
+          "async": true
+        }
+      },
+      "exportedName": "exportSingleTemplate",
+      "filename": ".react-email/src/actions/export-single-template.ts"
+    }
+  },
+  "edge": {}
+}
